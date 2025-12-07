@@ -1,8 +1,8 @@
 # Basics of NumPy (Numerical Python) 📚✨
 
- NumPy is an essential library for doing scientific computing in Python. It has powerful facilities for working with big, multi-dimensional arrays and matrices.  It has a lot of math functions that are very well optimized for speed, which makes it an essential tool for data science, machine learning, and numerical analysis.
+ NumPy is an essential library for doing scientific computing in Python. It has powerful facilities for working with big, multi-dimensional arrays and matrices.  It has many math functions that are highly optimized for speed, making it an essential tool for data science, machine learning, and numerical analysis.
 
- This Jupyter notebook provides an overview of **NumPy** (Numerical Python), a powerful package for performing mathematical operations in Python.  It covers the most critical parts of NumPy, such as arrays, scalars, vectors, matrices, and tensors.  This notebook is great for people who are new to NumPy and want to learn how to use it to do simple math.
+ This Jupyter notebook provides an overview of **NumPy** (Numerical Python), a powerful package for performing mathematical operations in Python.  It covers the most critical aspects of NumPy, including arrays, scalars, vectors, matrices, and tensors.  This notebook is great for people new to NumPy who want to learn how to use it for simple math.
 
  What You'll Learn: How to make and change arrays in NumPy.
  - **Basic Operations**: Operations on scalars, vectors, matrices, and tensors.
